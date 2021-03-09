@@ -9,7 +9,7 @@
 # exit on error
 
 # Array of supported versions
-declare -a versions=('trusty' 'xenial' 'yakkety' 'bionic');
+declare -a versions=('trusty' 'xenial' 'yakkety' 'bionic' 'focal');
 
 
 # check the version and extract codename of ubuntu if release codename not provided by user
